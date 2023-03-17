@@ -1,8 +1,7 @@
 ---
 title: "How to fit the AccelerAge framework in R: an illustration"
 author: "Marije Sluiskes"
-date: "16-3-2023"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 This document contains a step-by-step tutorial on how to fit the AccelerAge framework. It has two sections: in the first section I simulate a synthetic lifetable and dataset, in the second section I provide a step-by-step illustration of the AccelerAge framework. Those primarily interested in the AccelerAge model fitting procedure can skip the first section and move immediately to the second one.
